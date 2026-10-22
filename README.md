@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**yesleix7/yesleix7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Yeslei Cavalcante</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Desenvolvedor em formação | Python & SQL
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Estudando programação, orientação a objetos
+  e desenvolvimento de sistemas.
+</p>
+
+---
+
+## Sobre mim
+
+- Estudando Python e programação orientada a objetos
+- Desenvolvendo um sistema de controle de estoque
+- Praticando persistência de dados com SQLite
+- Aprendendo continuamente sobre desenvolvimento de software
+
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+## Projetos
+
+### Sistema de Controle de Estoque
+Sistema desenvolvido em Python com funcionalidades
+de cadastro e gerenciamento de produtos e integração
+com SQLite.
+
+### Estudos de Python
+Exercícios e projetos desenvolvidos durante
+meu aprendizado de programação.
+
+---
+
+<p align="center">
+  <i>Construindo conhecimento . . ..</i>
+</p>
