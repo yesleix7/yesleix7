@@ -2,7 +2,7 @@
 <h1 align="center">Yeslei Cavalcante</h1>
 
 <h3 align="center">
-  Desenvolvedor em formação | Python & SQL
+  Desenvolvedor em formação | . . . 
 </h3>
 
 <p align="center">
