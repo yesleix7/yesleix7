@@ -3,15 +3,15 @@
   <img src="./banner.png" width="100%">
 </p>
 
-<h1 align="center">Yesleix7</h1>
 
-<h3 align="center">
-  Desenvolvedor em formação | . . . 
-</h3>
+<h1 align="center">Olá, eu sou Yeslei 👋</h1>
 
 <p align="center">
-  Estudando programação, orientação a objetos
-  e desenvolvimento de sistemas.
+  <em>Desenvolvedor em formação | Python • SQL • SQLite</em>
+</p>
+
+<p align="center">
+  Estudando programação orientada a objetos e desenvolvendo projetos práticos para evoluir como desenvolvedor de software.
 </p>
 
 ---
