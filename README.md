@@ -1,50 +1,49 @@
 
-<p align="center">
-  <img src="./banner.png" width="100%">
-</p>
+# 👨‍💻 Yeslei Cavalcante
 
+### `Estudante | Desenvolvedor em formação`
 
-<h1 align="center">Eu sou Yeslei 👋</h1>
+Explorando a tecnologia, desenvolvendo projetos e aprendendo a resolver problemas através da programação.
 
-<p align="center">
-  <em>Desenvolvedor em formação | Python • SQL • SQLite</em>
-</p>
-
-<p align="center">
-  Estudando programação orientada a objetos e desenvolvendo projetos práticos para evoluir como desenvolvedor de software.
-</p>
+- 🐍 Estudando **Python** e Programação Orientada a Objetos.
+- 🗄️ Desenvolvendo projetos com **SQLite**.
+- 📊 Aprimorando conhecimentos em análise de dados.
+- 🚀 Construindo meu portfólio e buscando minha primeira oportunidade em tecnologia.
 
 ---
 
-## Sobre mim
-
-- Estudando Python e programação orientada a objetos
-- Desenvolvendo um sistema de controle de estoque
-- Praticando persistência de dados com SQLite
-- Aprendendo continuamente sobre desenvolvimento de software
-
-## Tecnologias
+### 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-## Projetos
-
-### Sistema de Controle de Estoque
-Sistema desenvolvido em Python com funcionalidades
-de cadastro e gerenciamento de produtos e integração
-com SQLite.
-
-### Estudos de Python
-Exercícios e projetos desenvolvidos durante
-meu aprendizado de programação.
 
 ---
 
-<p align="center">
-  <i>Construindo conhecimento . . ..</i>
+### 📌 Projetos em destaque
+
+**Sistema de Controle de Estoque**
+
+Projeto pessoal em desenvolvimento utilizando Python e SQLite, com foco no gerenciamento de produtos e clientes.
+
+🔗 [Ver meus repositórios](https://github.com/yesleix7?tab=repositories)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yesleix7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesleix7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🌐 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesleix7)
+
+<!-- Adicione seu LinkedIn aqui quando tiver a URL pública do perfil -->
